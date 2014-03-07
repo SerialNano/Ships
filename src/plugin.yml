@@ -1,0 +1,4 @@
+name: Ships
+main: Ships.ShipsMain
+version: 3.2.4
+commands:
